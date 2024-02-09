@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\source\repos\Theme17Pr2\Theme17Pr2\bin\Debug\Theme17Pr2.exe.config
+C:\Users\Kab-35-6\source\repos\Theme17Pr2\Theme17Pr2\bin\Debug\Theme17Pr2.exe
+C:\Users\Kab-35-6\source\repos\Theme17Pr2\Theme17Pr2\bin\Debug\Theme17Pr2.pdb
+C:\Users\Kab-35-6\source\repos\Theme17Pr2\Theme17Pr2\obj\Debug\Theme17Pr2.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\source\repos\Theme17Pr2\Theme17Pr2\obj\Debug\Theme17Pr2.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\source\repos\Theme17Pr2\Theme17Pr2\obj\Debug\Theme17Pr2.exe
+C:\Users\Kab-35-6\source\repos\Theme17Pr2\Theme17Pr2\obj\Debug\Theme17Pr2.pdb
